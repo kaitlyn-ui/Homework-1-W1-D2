@@ -45,6 +45,7 @@ class mergeTwoArraysTest {
 
     @Test
     void testEmptyArrays(){
+        //one empty array
         int[] array7 = {};
         int[] array8 = {5,6};
 
